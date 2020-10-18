@@ -60,7 +60,7 @@ Se você quiser utilizar o SQLite3 faça a seguinte instalação na pasta server
 Agora clone este repositório e instale todas as dependências.
 ```bash
 #Para clonar este repositório
-$ git clone https://github.com/Nathan-Andrade/Proffy.git
+$ git clone https://github.com/Nathan-Andrade/happy-backend.git
 
 # Vá para a pasta do servidor
 $ cd backend
