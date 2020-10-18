@@ -8,7 +8,7 @@
     NextLevelWeek #03 :rocket:
 </h2>
 
-  
+   ![](https://img.shields.io/github/languages/count/Nathan-Andrade/happy-backend?color=%23ffd666) ![](https://img.shields.io/github/languages/top/Nathan-Andrade/happy-backend?color=%23ffd666) ![](https://img.shields.io/github/repo-size/Nathan-Andrade/happy-backend?color=%23ffd666) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/happy-backend?color=%23ffd666) 
 
 <p align="center">
   
